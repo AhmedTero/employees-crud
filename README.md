@@ -50,4 +50,4 @@ Dummy data is generated using Laravel Factory and Seeder.
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/AhmedTero/CRUD_EMPLOYEE_MANGMENT
+git clone https://github.com/AhmedTero/employees-crud
